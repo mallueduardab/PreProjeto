@@ -1,0 +1,188 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Apel et al. 2016]{apel2016feature}
+\abntrefinfo{Apel et al.}{APEL et al.}{2016}
+{APEL, S. et al. \textbf{Feature-oriented software product lines}. [S.l.]:
+  Springer, 2016.}
+
+\bibitem[Colanzi 2014]{colanzi2014abordagem}
+\abntrefinfo{Colanzi}{COLANZI}{2014}
+{COLANZI, T.~E. Uma abordagem de otimiza{\c{c}}{\~a}o multiobjetivo para
+  projeto arquitetural de linha de produto de software.
+2014.}
+
+\bibitem[Corr{\^e}a e Corr{\^e}a 2000]{correa2000administraccao}
+\abntrefinfo{Corr{\^e}a e Corr{\^e}a}{CORR{\^E}A; CORR{\^E}A}{2000}
+{CORR{\^E}A, H.~L.; CORR{\^E}A, C.~A. \textbf{Administra{\c{c}}{\~a}o de
+  Produ{\c{c}}{\~a}o E Opera{\c{c}}{\~o}es: Manufatura E Servi{\c{c}}os: Uma
+  Abordagem Estrat{\'e}gica .} [S.l.]: Editora Atlas SA, 2000.}
+
+\bibitem[Duala-Ekoko e Robillard 2007]{Duala-Ekoko2007b}
+\abntrefinfo{Duala-Ekoko e Robillard}{DUALA-EKOKO; ROBILLARD}{2007}
+{DUALA-EKOKO, E.; ROBILLARD, M.~P. Tracking code clones in evolving software.
+  In:  \textbf{29th International Conference on Software Engineering
+  (ICSE'07)}. [S.l.: s.n.], 2007. p. 158--167.
+ISSN 0270-5257.}
+
+\bibitem[Fordos e Toth 2016]{Fordos2016}
+\abntrefinfo{Fordos e Toth}{FORDOS; TOTH}{2016}
+{FORDOS, V.; TOTH, M. Identifying code clones with refactorerl.
+\textbf{Acta Cybernetica}, v.~22, n.~3, p. 553 -- 571, 2016.
+ISSN 0324721X.
+Clone detection algorithms;Code clone;Identifying code;Maintenance cost;Source
+  codes;Tools and techniques;.}
+
+\bibitem[Gautam e Saini 2016]{gautam2016various}
+\abntrefinfo{Gautam e Saini}{GAUTAM; SAINI}{2016}
+{GAUTAM, P.; SAINI, H. Various code clone detection techniques and tools: a
+  comprehensive survey. In:  SPRINGER. \textbf{International Conference on
+  Smart Trends for Information Technology and Computer Communications}. [S.l.],
+  2016. p. 655--667.}
+
+\bibitem[Jang e Brumley 2009]{jang2009bitshred}
+\abntrefinfo{Jang e Brumley}{JANG; BRUMLEY}{2009}
+{JANG, J.; BRUMLEY, D. Bitshred: Fast, scalable code reuse detection in binary
+  code (cmu-cylab-10-006).
+\textbf{CyLab}, p.~28, 2009.}
+
+\bibitem[Kamiya, Kusumoto e Inoue 2002]{Kamiya2002}
+\abntrefinfo{Kamiya, Kusumoto e Inoue}{KAMIYA; KUSUMOTO; INOUE}{2002}
+{KAMIYA, T.; KUSUMOTO, S.; INOUE, K. Ccfinder: a multilinguistic token-based
+  code clone detection system for large scale source code.
+\textbf{IEEE Transactions on Software Engineering}, v.~28, n.~7, p. 654--670,
+  Jul 2002.
+ISSN 0098-5589.}
+
+\bibitem[Kapdan, Aktas e Yigit 2014]{kapdan2014structural}
+\abntrefinfo{Kapdan, Aktas e Yigit}{KAPDAN; AKTAS; YIGIT}{2014}
+{KAPDAN, M.; AKTAS, M.; YIGIT, M. On the structural code clone detection
+  problem: a survey and software metric based approach. In:  SPRINGER.
+  \textbf{International Conference on Computational Science and Its
+  Applications}. [S.l.], 2014. p. 492--507.}
+
+\bibitem[Kitchenham e Brereton 2010]{kitchenham2010}
+\abntrefinfo{Kitchenham e Brereton}{KITCHENHAM; BRERETON}{2010}
+{KITCHENHAM, D.~B. B.; BRERETON, P. The value of mapping studies-a
+  participant-observer case study. In:  \textbf{14th International Conference
+  on Evaluation and Assessment in Software Engineering, British Computer
+  Society}. [S.l.: s.n.], 2010. p. 25--33.}
+
+\bibitem[Laguna e Crespo 2013]{laguna2013systematic}
+\abntrefinfo{Laguna e Crespo}{LAGUNA; CRESPO}{2013a}
+{LAGUNA, M.~A.; CRESPO, Y. A systematic mapping study on software product line
+  evolution: From legacy system reengineering to product line refactoring.
+\textbf{Science of Computer Programming}, Elsevier, v.~78, n.~8, p. 1010--1034,
+  2013.}
+
+\bibitem[Laguna e Crespo 2013]{Laguna2013}
+\abntrefinfo{Laguna e Crespo}{LAGUNA; CRESPO}{2013b}
+{LAGUNA, M.~A.; CRESPO, Y. A systematic mapping study on software product line
+  evolution: From legacy system reengineering to product line refactoring.
+\textbf{Science of Computer Programming}, v.~78, n.~8, p. 1010 -- 1034, 2013.
+ISSN 0167-6423.
+Special section on software evolution, adaptability, and maintenance \&amp;
+  Special section on the Brazilian Symposium on Programming Languages.}
+
+\bibitem[Lin et al. 2014]{Lin2014}
+\abntrefinfo{Lin et al.}{LIN et al.}{2014}
+{LIN, Y. et al. Detecting differences across multiple instances of code clones.
+  In:  \textbf{Proceedings of the 36th International Conference on Software
+  Engineering}. New York, NY, USA: ACM, 2014.  (ICSE 2014), p. 164--174.
+ISBN 978-1-4503-2756-5.}
+
+\bibitem[Moresi et al. 2003]{moresi2003metodologia}
+\abntrefinfo{Moresi et al.}{MORESI et al.}{2003}
+{MORESI, E. et al. Metodologia da pesquisa.
+\textbf{Bras{\'\i}lia: Universidade Cat{\'o}lica de Bras{\'\i}lia}, v.~108,
+  p.~24, 2003.}
+
+\bibitem[Paiva e Figueiredo 2016]{alexandremartinspaiva2016}
+\abntrefinfo{Paiva e Figueiredo}{PAIVA; FIGUEIREDO}{2016}
+{PAIVA, A.~M.; FIGUEIREDO, E.
+\textbf{ON THE DETECTION OF CODE CLONE WITH SEQUENCE OF METHOD CALLS}.
+Disserta\c{c}\~{a}o (Masters Thesis) --- University of Minas Gerais, Belo
+  Horizonte, may 2016.}
+
+\bibitem[Petersen R.~Feldt e Mattsson 2008]{petersen2008}
+\abntrefinfo{Petersen R.~Feldt e Mattsson}{PETERSEN R.~FELDT; MATTSSON}{2008}
+{PETERSEN R.~FELDT, S.~M. K.; MATTSSON, M. Systematic mapping studies in
+  software engineering. In:  \textbf{12th International Conference on
+  Evaluation and Assessment in Software Engineering}. [S.l.: s.n.], 2008.
+  p.~1.}
+
+\bibitem[Rattan e Kaur 2016]{Rattan2016}
+\abntrefinfo{Rattan e Kaur}{RATTAN; KAUR}{2016}
+{RATTAN, D.; KAUR, J. Systematic mapping study of metrics based clone detection
+  techniques. In:  \textbf{Proceedings of the International Conference on
+  Advances in Information Communication Technology \& Computing}. New York, NY,
+  USA: ACM, 2016.  (AICTC '16), p. 76:1--76:7.
+ISBN 978-1-4503-4213-1. Dispon{\'\i}vel em:
+  \url{http://doi.acm.org/10.1145/2979779.2979855}.}
+
+\bibitem[Roy e Cordy 2007]{roy2007survey}
+\abntrefinfo{Roy e Cordy}{ROY; CORDY}{2007}
+{ROY, C.~K.; CORDY, J.~R. A survey on software clone detection research.
+\textbf{Queen’s School of Computing TR}, v.~541, n.~115, p. 64--68, 2007.}
+
+\bibitem[Schugerl 2011]{Schugerl2011}
+\abntrefinfo{Schugerl}{SCHUGERL}{2011}
+{SCHUGERL, P. Scalable clone detection using description logic. In:
+  \textbf{Proceedings of the 5th International Workshop on Software Clones}.
+  New York, NY, USA: ACM, 2011.  (IWSC '11), p. 47--53.
+ISBN 978-1-4503-0588-4.}
+
+\bibitem[Schulze, Apel e Kästner 2011]{Schulze2011a}
+\abntrefinfo{Schulze, Apel e Kästner}{SCHULZE; APEL; KäSTNER}{2011}
+{SCHULZE, S.; APEL, S.; KäSTNER, C. Code clones in feature-oriented software
+  product lines.
+\textbf{ACM SIGPLAN Notices}, v.~46, n.~2, p. 103--112, 2011.
+Cited By 2.
+Dispon{\'\i}vel em:
+  \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-79951743431&doi=10.1145\%2f1942788.1868310&partnerID=40&md5=f151bb4f4d206bf539e21a1b3fc92e58}.}
+
+\bibitem[Solanki e Kumari 2016]{solanki2016comparative}
+\abntrefinfo{Solanki e Kumari}{SOLANKI; KUMARI}{2016}
+{SOLANKI, K.; KUMARI, S. Comparative study of software clone detection
+  techniques. In:  IEEE. \textbf{Management and Innovation Technology
+  International Conference (MITicon), 2016}. [S.l.], 2016. p. MIT--152.}
+
+\bibitem[Torres, Junior e Farias 2017]{Torres2017}
+\abntrefinfo{Torres, Junior e Farias}{TORRES; JUNIOR; FARIAS}{2017}
+{TORRES, J. J.~B.; JUNIOR, M. C.~R.; FARIAS, M.~A. D.~F. Procedural x oo: A
+  corporative experiment on source code clone mining. In:  . Porto, Portugal:
+  [s.n.], 2017. v.~2, p. 395 -- 402. Closed source;Code clone
+  detection;Experimental software engineering;Mining software
+  repositories;Object oriented software;Private educations;Proprietary
+  software;Similarity threshold;.}
+
+\bibitem[Vale et al. 2015]{Vale2015}
+\abntrefinfo{Vale et al.}{VALE et al.}{2015}
+{VALE, G. et al. Criteria and guidelines to improve software maintainability in
+  software product lines. In:  \textbf{2015 12th International Conference on
+  Information Technology - New Generations}. [S.l.: s.n.], 2015. p. 427--432.}
+
+\bibitem[Wieringa N.~Maiden e Rolland 2006]{wieringa2006}
+\abntrefinfo{Wieringa N.~Maiden e Rolland}{WIERINGA N.~MAIDEN; ROLLAND}{2006}
+{WIERINGA N.~MAIDEN, N.~M. R.; ROLLAND, C. Requirements engineering paper
+  classification and evaluation criteria: a proposal and a discussion. In:  .
+  [S.l.: s.n.], 2006. p. 102–--107.}
+
+\bibitem[Yuan e Guo 2011]{Yuan2011}
+\abntrefinfo{Yuan e Guo}{YUAN; GUO}{2011}
+{YUAN, Y.; GUO, Y. Cmcd: Count matrix based code clone detection. In:
+  \textbf{2011 18th Asia-Pacific Software Engineering Conference}. [S.l.:
+  s.n.], 2011. p. 250--257.
+ISSN 1530-1362.}
+
+\bibitem[Yuki, Higo e Kusumoto 2017]{Yuki2017}
+\abntrefinfo{Yuki, Higo e Kusumoto}{YUKI; HIGO; KUSUMOTO}{2017}
+{YUKI, Y.; HIGO, Y.; KUSUMOTO, S. A technique to detect multi-grained code
+  clones. In:  \textbf{2017 IEEE 11th International Workshop on Software Clones
+  (IWSC)}. [S.l.: s.n.], 2017. p.~1--7.}
+
+\end{thebibliography}

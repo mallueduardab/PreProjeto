@@ -1,0 +1,36 @@
+\chapter{INTRODUÇÃO}
+\label{cap:introducao}
+
+Uma das maiores inovações tecnológicas da era industrial é conhecida como linha de produção ou linha de montagem. Concebida no ano de 1913 por Henry Ford \cite{correa2000administraccao}, o processo de produção em série possibilitou redução de custos e a produção em massa.
+
+ Aliados a evolução e a automatização dos processos na produção industrial, destaca-se, na área de Engenharia de Software, a evolução de softwares legados ou criação de novos sistemas utilizando o conceito de Linha de Produtos de Software (LPS) (do inglês \textit{Software Product Line} ou SPL) \cite{laguna2013systematic}. Tal conceito atende à sistemas de softwares que compartilham um conjunto comum de funcionalidades desenvolvidas a partir de uma base em comum, e que são voltados à atender necessidades de um segmento de mercado ou missão. 
+
+Clones de código são encontrados em diversos contextos de desenvolvimento de software a identificação desses clones possibilita a prevenção sa propagação de erros, identificação e correção de bugs o que também acarreta em maior facilidade de manutenção. Trechos de código-fonte idênticos ou similares são classificados como clones de código, uma vez que eles surgem de diversas maneiras e são comumente oriundos de práticas de "\textit{copy and paste}" por programadores intencionalmente ou não. Algumas dessas práticas são reutilização de código \textit{ad-hoc}, adição de funcionalidades semelhantes e outros.
+
+Por conseguinte, pesquisas recentes mostram a existência de uma vasta gama de ferramentas que realizam tal detecção. Elas identificam tipos variados de clones e são implementadas por técnicas baseadas, em sua maioria, em texto (\textit{text-based}), tokens (\textit{token-based}), árvores (\textit{tree-based}), grafos (\textit{graph-based}), métricas (\textit{metric-based}) e híbridas (\textit{hybrid-based}). Nesse cenário, a maioria dessas ferramentas de detecção são desenvolvidas para detectar clones de código em softwares implementados sob o Paradigma Orientado a Objetos (POO). Contudo, por se tratar de um paradigma emergente, o Paradigma Orientado a características vem se destacando na utilização para implementar LPS's, isto é, Linhas de Produtos de Software Orientada a Características. 
+
+
+\section{Motivação}
+Como uma LPS gera vários produtos derivados de comunalidades e acrescidos de variabilidades, a detecção de clones diretamente na linha de produtos visa a propagação de alterações por todos os produtos dessa família de softwares. A utilização do POC na implementação de LPS é beneficiada por não possuir limitações especificadas por conceitos de herança, por exemplo.
+
+Constatada a quase inexistência de pesquisas acerca da detecção de clones de código em Linhas de produtos de Software com uma pesquisa de mapeamento sistemático relatada no capítulo 4 deste trabalho de dissertação (Clonagem de código - Estado da arte) observamos uma lacuna de pesquisa a ser preenchida com os resultados esperados deste trabalho.
+
+\section{Objetivos}
+
+Neste trabalho propomos um abordagem híbrida para detecção de clones em código fonte, baseada na análise de chamadas de métodos e instruções, em Linha de Produtos de software Orientada a Características. Para da suporte ao desenvolvimento dessa abordagem, foram estabelecidos os seguintes objetivos específicos:
+
+\begin{itemize}
+	\item \textbf{Estado da arte}: Para de compreender oa cenárioa de Clonagem de Código e Linha de produtos de Software, é necessário estudar ambos os conceitos abordados pela literatura.
+	
+	\item \textbf{Identificar abordagens existentes}: Para obter apoio no desenvolvimento da abordagem é necessário identificar a existência de ferramentas e abordagens para detecção de clones de código e em qual paradigma elas são identificadas.   
+	
+	\item \textbf{Proposta de abordagem}: Formalizar a proposta de abordagem de detecção de clones em LPS Orientada a Características, bem como a definição da linguagem e outros elementos julgadas importantes.
+	
+	\item \textbf{Ferramenta de apoio computacional}: Para automatizar o processo de detecção, será desenvolvida uma ferramenta que implementa a abordagem proposta.
+	
+\end{itemize}
+ 
+
+
+
+
