@@ -6,35 +6,36 @@
 \contentsline {chapter}{\numberline {2}Metodologia de Pesquisa}{13}{chapter.2}
 \contentsline {section}{\numberline {2.1}Classifica\IeC {\c c}\IeC {\~a}o da Pesquisa}{13}{section.2.1}
 \contentsline {section}{\numberline {2.2}M\IeC {\'e}todo de Pesquisa}{15}{section.2.2}
-\contentsline {chapter}{\numberline {3}LINHAS DE PRODUTOS DE SOFTWARE - ESTADO DA ARTE}{17}{chapter.3}
-\contentsline {section}{\numberline {3.1}Considera\IeC {\c c}\IeC {\~o}es iniciais}{17}{section.3.1}
-\contentsline {section}{\numberline {3.2}Caracter\IeC {\'\i }sticas e Produtos}{17}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Variabilidades}{18}{subsection.3.2.1}
-\contentsline {section}{\numberline {3.3}Processo de Desenvolvimento}{19}{section.3.3}
-\contentsline {section}{\numberline {3.4}Evolu\IeC {\c c}\IeC {\~a}o}{19}{section.3.4}
-\contentsline {section}{\numberline {3.5}Clonagem de c\IeC {\'o}digo}{19}{section.3.5}
-\contentsline {section}{\numberline {3.6}Considera\IeC {\c c}\IeC {\~o}es finais}{19}{section.3.6}
-\contentsline {chapter}{\numberline {4}CLONAGEM DE C\IeC {\'O}DIGO - ESTADO DA ARTE}{21}{chapter.4}
-\contentsline {section}{\numberline {4.1}Considera\IeC {\c c}\IeC {\~o}es iniciais}{21}{section.4.1}
-\contentsline {section}{\numberline {4.2}INTRODU\IeC {\c C}\IeC {\~A}O}{21}{section.4.2}
-\contentsline {section}{\numberline {4.3}\textit {Background}}{23}{section.4.3}
-\contentsline {section}{\numberline {4.4}Planejamento do Estudo Explorat\IeC {\'o}rio}{27}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Quest\IeC {\~o}es de pesquisa}{27}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Estrat\IeC {\'e}gia de Pesquisa}{29}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Crit\IeC {\'e}rio de Inclus\IeC {\~a}o/Exclus\IeC {\~a}o}{30}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Resultados}{32}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Caracter\IeC {\'\i }sticas Gerais dos Trabalhos Selecionados}{32}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Resposta \IeC {\`a}s Quest\IeC {\~o}es de Pesquisa}{34}{subsection.4.5.2}
-\contentsline {section}{\numberline {4.6}Discuss\IeC {\~a}o}{36}{section.4.6}
-\contentsline {section}{\numberline {4.7}Trabalhos Relacionados}{39}{section.4.7}
-\contentsline {section}{\numberline {4.8}Amea\IeC {\c c}as a validade}{39}{section.4.8}
-\contentsline {section}{\numberline {4.9}Considera\IeC {\c c}\IeC {\~o}es Finais}{40}{section.4.9}
-\contentsline {chapter}{\numberline {5}ABORDAGEM}{47}{chapter.5}
-\contentsline {chapter}{\numberline {6}FERRAMENTA }{49}{chapter.6}
-\contentsline {chapter}{\numberline {7}AVALIA\IeC {\c C}\IeC {\~A}O}{51}{chapter.7}
-\contentsline {chapter}{\numberline {8}AMEA\IeC {\c C}A A VALIDADE}{53}{chapter.8}
-\contentsline {chapter}{\numberline {9}TRABALHOS RELACIONADOS }{55}{chapter.9}
-\contentsline {chapter}{\numberline {10}CONSIDERA\IeC {\c C}\IeC {\~O}ES FINAIS}{57}{chapter.10}
-\contentsline {chapter}{\numberline {11}CONCLUS\IeC {\~A}O}{59}{chapter.11}
-\contentsline {chapter}{\hbox to\@tempdima {\hfil } REFER\^ENCIAS}{61}{section*.12}
-\contentsline {chapter}{\hbox to\@tempdima {\hfil } APENDICE~A\ -- O que s\IeC {\~a}o ap\IeC {\^e}ndices}{65}{section*.14}
+\contentsline {chapter}{\numberline {3}LINHAS DE PRODUTOS DE SOFTWARE - ESTADO DA ARTE}{19}{chapter.3}
+\contentsline {section}{\numberline {3.1}Considera\IeC {\c c}\IeC {\~o}es iniciais}{19}{section.3.1}
+\contentsline {section}{\numberline {3.2}Caracter\IeC {\'\i }sticas e Produtos}{19}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Variabilidades}{20}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Processo de Desenvolvimento}{21}{section.3.3}
+\contentsline {section}{\numberline {3.4}Evolu\IeC {\c c}\IeC {\~a}o}{21}{section.3.4}
+\contentsline {section}{\numberline {3.5}LPS Orientada a Caracter\IeC {\'\i }sticas}{21}{section.3.5}
+\contentsline {section}{\numberline {3.6}Clonagem de c\IeC {\'o}digo}{21}{section.3.6}
+\contentsline {section}{\numberline {3.7}Considera\IeC {\c c}\IeC {\~o}es finais}{21}{section.3.7}
+\contentsline {chapter}{\numberline {4}CLONAGEM DE C\IeC {\'O}DIGO - ESTADO DA ARTE}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}Considera\IeC {\c c}\IeC {\~o}es iniciais}{23}{section.4.1}
+\contentsline {section}{\numberline {4.2}INTRODU\IeC {\c C}\IeC {\~A}O}{23}{section.4.2}
+\contentsline {section}{\numberline {4.3}\textit {Background}}{25}{section.4.3}
+\contentsline {section}{\numberline {4.4}Planejamento do Estudo Explorat\IeC {\'o}rio}{29}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Quest\IeC {\~o}es de pesquisa}{29}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Estrat\IeC {\'e}gia de Pesquisa}{31}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Crit\IeC {\'e}rio de Inclus\IeC {\~a}o/Exclus\IeC {\~a}o}{32}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Resultados}{34}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Caracter\IeC {\'\i }sticas Gerais dos Trabalhos Selecionados}{34}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Resposta \IeC {\`a}s Quest\IeC {\~o}es de Pesquisa}{36}{subsection.4.5.2}
+\contentsline {section}{\numberline {4.6}Discuss\IeC {\~a}o}{38}{section.4.6}
+\contentsline {section}{\numberline {4.7}Trabalhos Relacionados}{41}{section.4.7}
+\contentsline {section}{\numberline {4.8}Amea\IeC {\c c}as a validade}{41}{section.4.8}
+\contentsline {section}{\numberline {4.9}Considera\IeC {\c c}\IeC {\~o}es Finais}{42}{section.4.9}
+\contentsline {chapter}{\numberline {5}ABORDAGEM}{49}{chapter.5}
+\contentsline {chapter}{\numberline {6}FERRAMENTA }{51}{chapter.6}
+\contentsline {chapter}{\numberline {7}AVALIA\IeC {\c C}\IeC {\~A}O}{53}{chapter.7}
+\contentsline {chapter}{\numberline {8}AMEA\IeC {\c C}A A VALIDADE}{55}{chapter.8}
+\contentsline {chapter}{\numberline {9}TRABALHOS RELACIONADOS }{57}{chapter.9}
+\contentsline {chapter}{\numberline {10}CONSIDERA\IeC {\c C}\IeC {\~O}ES FINAIS}{59}{chapter.10}
+\contentsline {chapter}{\numberline {11}CONCLUS\IeC {\~A}O}{61}{chapter.11}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil } REFER\^ENCIAS}{63}{section*.12}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil } APENDICE~A\ -- O que s\IeC {\~a}o ap\IeC {\^e}ndices}{67}{section*.14}

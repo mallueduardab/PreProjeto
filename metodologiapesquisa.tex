@@ -22,12 +22,26 @@ Segundo \citeauthor{moresi2003metodologia} \citeyear{moresi2003metodologia}, a p
 
 \section{Método de Pesquisa}
 
-O presente trabalho iniciou-se em março de 2018 e tem como previsão o término para fevereiro de 2020. Neste trabalho, o objetivo é desenvolver uma abordagem híbrida de detecção de clones de código em Linhas de Produtos de Software Orientada a Características. Para realizar a análise dessa abordagem, serão abrangidos os contextos de análise de desempenho e [COMPLETAR - N TO LEMBRANDO A DEFINIÇÃO CERTA]. Logo, a metodologia a ser utilizada nesse trabalho segue as seguintes etapas:
+O presente trabalho iniciou-se em março de 2018 e tem como previsão o término para fevereiro de 2020. Neste trabalho, o objetivo é desenvolver uma abordagem híbrida de detecção de clones de código em Linhas de Produtos de Software Orientada a Características. Para realizar a análise dessa abordagem, serão abrangidos os contextos de análise de desempenho e [COMPLETAR - N TO LEMBRANDO A DEFINIÇÃO CERTA]. Logo, para atigir os objetivos propostos, a metodologia a ser utilizada nesse trabalho segue as seguintes etapas:
 
 \begin{itemize}
-	\item[1] \textbf{Revisão da Literatura:} nessa etapa foi realizada a revisão da literatura afim de conhecer os campos de estudo e obter informações importantes ao escopo do trabalho. No decorrer desta, foi fundamentada a teoria acerca de (i) Linhas de Produtos de Software e (ii) Clonagem de Código. Para essa ultima foi realizado um estudo de mapeamento sistemático da literatura que reúne ferramentas, técnicas, processos e outros, sobre detecção de código clonado. 
+	\item[1.] \textbf{Estado da Arte - Clonagem de Código:} nessa etapa foi realizada a revisão da literatura, abordando como a detecção de clonagem de código ocorre no paradigma de orientação a objetos e verificar como essa detecção é feita no paradigma de orientação a características. Para tal, foi feito um estudo exploratório utilizando a técnica de mapeamento sistemático da literatura. Esse processo utilizou artigos científicos obtidos em pesquisas realizadas em seis bibliotecas digitais para responder a quatro questões de pesquisa propostas, de acordo com os objetivos iniciais pretendidos, isto e, o estado da arte da clonagem de código. Assim, os resultados obtidos foram estruturados, descritos e analisados no decorrer da Seção 4 deste trabalho. Portanto, essa etapa está \textbf{concluída}.
 	
-	\item[1] \textbf{Revisão da Literatura:}
+	\item[2.] \textbf{Estado da Arte - Linha de Produtos de Software (LPS):} nessa etapa foi realizada a revisão da literatura para identificar o estado da arte de Linhas de Produtos de Software. Nesse contexto, foi abordado características de produtos, variabilidades, desenvolvimento, evolução, e a clonagem de código em LPS.
+		
+	\item[3.] \textbf{Proposta de Abordagem (Estado: em andamento) :} essa etapa concentrou-se na definição e elaboração de uma abordagem para detectar clones de código em Linhas de Produtos de Software orientadas a características. Após a pesquisa de abordagens de detecção de clones existentes, como resultados obtidos da etapa um (Clonagem de código), foi definida a proposta de uma abordagem híbrida de detecção de clones em LPS, composta pelos processos de análise de sequência de chamadas de métodos e análise estrutural de instruções. Tal abordagem contará com um apoio computacional a ser desenvolvido (\textit{plug-in} (etapa 4) para a plataforma IDE Eclipse). Para essa abordagem, será utilizado \textit{Program Dependence Graph} (PDG), uma representação intermediária do programa que utiliza notação de grafo para representar a dependência de vários objetos entre si. Após criar o grafo que representa a sequência de chamadas de métodos, é possível utilizar subgrafos a serem comparados para encontrar sequências de chamadas em comum. Para cada par de subgrafo comparado, a análise de cada chamada de método será feita pela verificação da assinatura (A) do método (M). Define-se assinatura de um método (A(M)) por:
+	
+	\begin{center}
+		\textbf{A(M)} = visibilidade + retorno + identificador + (tipo(s) + parâmetro(s)).
+	\end{center}
+	
+	Logo, se A(M1) = A(M2), M1 e M2 são possíveis clones. Porém, alterações no identificador do método dificulta o tipo de análise proposta. Para resolver tal dificuldade, será utilizada a análise estrutural das instruções (atribuição, repetição, decisão e outros) dentro de cada método, onde é verificada a similaridade com base no grafo de instruções extraído. Nesse contexto, propriedades relacionadas a herança, isto é, sobrecarga e sobrescrita, não são considerados clones por possuírem conceitos específicos que não os classificam como tal.
+	O estado atual dessa etapa é \textbf{em andamento}
+
+	\item[4.] \textbf{\textit{Plug-in}:} nessa etapa, o objetivo é desenvolver um apoio computacional semi-automatizado para auxiliar a análise da abordagem proposta. Para isso, será utilizada a linguagem de programação Java para a implementação de um \textit{plug-in} para a plataforma IDE Eclipse, que detecta clones em LPS. Logo, serão implementados métodos de funcionais para a abordagem.
+	
+	\item[5.] \textbf{Análise dos Resultados:} Por fim, será feita a análise da abordagem proposta, utilizando os dados de saída da ferramenta para avaliação junto a outras ferramentas/abordagens
+	
 \end{itemize}
 
 
